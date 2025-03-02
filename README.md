@@ -74,7 +74,7 @@ bash scripts/parallel_run_webarena_wma.sh
 
 ## Citation
 
-
+```
 @inproceedings{
 chae2025web,
 title={Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation},
