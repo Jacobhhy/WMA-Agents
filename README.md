@@ -8,7 +8,7 @@ This is the official repository for ICLR 2025 paper "[Web Agents with World Mode
 
 - 🤗 [**Huggingface (Models and Datasets)**](https://huggingface.co/spaces/LangAGI-Lab/WMA-Agent)
 - 📄 [**Paper**](https://arxiv.org/abs/2406.08464)
-- 🤗 [**WMA Agent Demo**](https://huggingface.co/spaces/hyungjoochae/WMA-Agent-Demo) (Thanks a lot for the implementation from @davanstrien!)
+- 🤗 [**WMA Agent Demo**](https://huggingface.co/spaces/hyungjoochae/WMA-Agent-Demo) (WIP)
 
 ## 🌍 News
 - [2025/01/22] WMA Web Agent is accepted by ICLR 2025! 
@@ -84,7 +84,3 @@ year={2025},
 url={https://openreview.net/forum?id=moWiYJuSGF}
 }
 ```
-
-<!-- ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=magpie-align/magpie&type=Date)](https://star-history.com/#magpie-align/magpie&Date) -->
