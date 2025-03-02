@@ -7,7 +7,7 @@
 This is the official repository for ICLR 2025 paper "[Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](https://arxiv.org/abs/2410.13232)". We present a World-model-augmented (WMA) web agent that simulates action outcomes for better decision-making in long-horizon web tasks. Unlike existing LLM-based web agents that often make costly mistakes (e.g., repeatedly buying non-refundable tickets), our approach leverages world models to predict potential consequences before taking actions. We propose a transition-focused observation abstraction that enables effective training of LLMs as world models by focusing on natural language descriptions of important state changes. Experiments on WebArena and Mind2Web demonstrate that our world models improve agents' policy selection without training and show superior cost- and time-efficiency compared to tree-search-based approaches.
 
 - 🤗 [**Huggingface (Models and Datasets)**](https://huggingface.co/spaces/LangAGI-Lab/WMA-Agent)
-- 📄 [**Paper**](https://arxiv.org/abs/2406.08464)
+- 📄 [**Paper**](https://arxiv.org/abs/2410.13232)
 - 🤗 [**WMA Agent Demo**](https://huggingface.co/spaces/hyungjoochae/WMA-Agent-Demo) (WIP)
 
 ## 🌍 News
